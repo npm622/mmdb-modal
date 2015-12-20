@@ -1,0 +1,16 @@
+{
+    "name": "mmdb-modal",
+    "version": "0.0.1",
+    "main": "mmdb-modal.js",
+    "ignore": [
+        ".gitignore",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
